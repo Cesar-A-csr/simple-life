@@ -49,7 +49,7 @@ dict_producto = {
     "<nombre_producto>": {  
         "cantidad": int,   # Disponibilidad aleatoria   
         "precio": float,   # Costo unitario en rango con decimales redondeados  
-        "saciedad": float, # Unidades de energía recuperable por unidad     
+        "saciedad": float, # Unidades de energía recuperable    
         "tipo": str        # Categoría ("fruta" | "verdura")    
     }   
 }
