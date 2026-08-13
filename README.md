@@ -9,7 +9,8 @@ This was made by helping my cousin, in her IT class (highschool) she had a homew
 
 
 ```
-Choose a daily problem and solve it by a python program that is it robust scalable and esay to use. This program has to have two manual one of technice language and one of normal language
+Choose a daily problem and solve it by a python program that is it robust scalable and esay to use.
+This program has to have two manual one of technice language and one of normal language
 ```
 
 Basically they ask for a program that resolves a daily problem and their documentation (user manual and technical manual).
