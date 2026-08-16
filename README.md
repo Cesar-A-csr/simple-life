@@ -12,8 +12,8 @@ Python 3.x
 This was made by helping my cousin, in her IT class (highschool) she had a homework assigned before vacations, the homework was:
 
 
-‘‘Choose a daily problem and solve it by a python program that is it robust scalable and esay to use.
-This program has to have two manual one of technice language and one of normal language’’
+**Choose a daily problem and solve it by a python program that is it robust scalable and esay to use.
+This program has to have two manual one of technice language and one of normal language**
 
 Basically they ask for a program that resolves a daily problem and their documentation (user manual and technical manual).
 
@@ -144,7 +144,7 @@ Hunger is calculated by subtracting energy recovered from energy spent randomly 
 dict_jugador["hambre"] = max(0, dict_jugador["hambre"] + energia_gastada - energia_recuperada)
 ```
 
-Economic Update
+Economic Update    
 Day 1:  
 `gasto_generado = dict_jugador["renta"] + total_compra`
 
